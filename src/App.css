@@ -4,6 +4,13 @@
   margin: 20px 20px 20px 20px;
 }
 
+.all-students,
+.present-students,
+.absent-students {
+  border: 2px solid black;
+  padding: 5px;
+}
+
 ul {
   list-style: none;
 }
